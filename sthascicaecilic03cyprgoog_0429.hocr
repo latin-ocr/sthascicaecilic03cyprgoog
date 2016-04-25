@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sthascicaecilic03cyprgoog_0429.png"; bbox 0 0 4002 5050; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 675 1951 1268 2347">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 680 1951 1100 2021">
+     <span class='ocr_line' id='line_1_1' title="bbox 680 1951 1100 2021; baseline -0.01 -11"><span class='ocrx_word' id='word_1_1' title='bbox 680 1953 757 2010; x_wconf 79' lang='lat' dir='ltr'><strong>W:</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 766 1951 845 2006; x_wconf 73' lang='lat' dir='ltr'>codex</span> <span class='ocrx_word' id='word_1_3' title='bbox 857 1951 1100 2021; x_wconf 68' lang='lat' dir='ltr'><strong>Wfineburgemis.</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 675 2037 1268 2180">
+     <span class='ocr_line' id='line_1_2' title="bbox 675 2037 1268 2106; baseline 0 -14"><span class='ocrx_word' id='word_1_4' title='bbox 675 2037 706 2092; x_wconf 91' lang='lat' dir='ltr'><strong><em>D</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 725 2059 759 2086; x_wconf 90' lang='lat'>=</span> <span class='ocrx_word' id='word_1_6' title='bbox 768 2037 847 2092; x_wconf 82' lang='lat' dir='ltr'>codex</span> <span class='ocrx_word' id='word_1_7' title='bbox 858 2037 998 2092; x_wconf 72' lang='lat' dir='ltr'>Parisinus</span> <span class='ocrx_word' id='word_1_8' title='bbox 1010 2037 1107 2099; x_wconf 76' lang='lat'><strong>1304&#39;1;</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1125 2037 1160 2092; x_wconf 80' lang='lat' dir='ltr'><strong>cf.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1171 2053 1197 2106; x_wconf 83' lang='lat' dir='ltr'><strong>p.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1211 2037 1268 2092; x_wconf 60' lang='lat' dir='ltr'><strong>18st</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 675 2121 1033 2180; baseline -0.008 0"><span class='ocrx_word' id='word_1_12' title='bbox 675 2125 715 2180; x_wconf 77' lang='grc' dir='ltr'><em>Μ</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 723 2145 756 2172; x_wconf 86' lang='grc'><strong>--</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 765 2123 846 2178; x_wconf 81' lang='lat' dir='ltr'><strong>codex</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 858 2121 1033 2177; x_wconf 70' lang='lat' dir='ltr'><strong>Monacensis.</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 676 2207 1071 2274">
+     <span class='ocr_line' id='line_1_4' title="bbox 676 2207 1071 2274; baseline -0.01 -10"><span class='ocrx_word' id='word_1_16' title='bbox 676 2209 705 2264; x_wconf 84' lang='lat' dir='ltr'><strong><em>B</em></strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 721 2231 755 2256; x_wconf 92' lang='lat'>=</span> <span class='ocrx_word' id='word_1_18' title='bbox 763 2207 843 2262; x_wconf 74' lang='lat' dir='ltr'>codex</span> <span class='ocrx_word' id='word_1_19' title='bbox 854 2207 1071 2274; x_wconf 57' lang='lat' dir='ltr'>meergensia</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 679 2291 1021 2347">
+     <span class='ocr_line' id='line_1_5' title="bbox 679 2291 1021 2347; baseline -0.003 0"><span class='ocrx_word' id='word_1_20' title='bbox 679 2293 708 2347; x_wconf 80' lang='lat' dir='ltr'><strong><em>V</em></strong></span> <span class='ocrx_word' id='word_1_21' title='bbox 720 2315 754 2341; x_wconf 91' lang='lat'>=</span> <span class='ocrx_word' id='word_1_22' title='bbox 763 2292 842 2346; x_wconf 74' lang='lat' dir='ltr'>codex</span> <span class='ocrx_word' id='word_1_23' title='bbox 854 2291 1021 2346; x_wconf 59' lang='lat' dir='ltr'>Veronensis</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2006 5050">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2006 5050">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2006 5050; baseline 0 0"><span class='ocrx_word' id='word_1_24' title='bbox 0 0 2006 5050; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

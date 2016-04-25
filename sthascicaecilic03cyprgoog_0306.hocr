@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sthascicaecilic03cyprgoog_0306.png"; bbox 0 0 3994 5044; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 617 1631 1511 1986">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 617 1631 1511 1986">
+     <span class='ocr_line' id='line_1_1' title="bbox 1003 1631 1119 1729; baseline -0.009 0"><span class='ocrx_word' id='word_1_1' title='bbox 1003 1631 1119 1729; x_wconf 85' lang='lat' dir='ltr'><strong>VIII.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 617 1882 1511 1986; baseline 0 -2"><span class='ocrx_word' id='word_1_2' title='bbox 617 1882 857 1984; x_wconf 81' lang='lat' dir='ltr'><strong>THASGI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 889 1885 1149 1986; x_wconf 79' lang='lat' dir='ltr'><strong>CAECILI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1182 1885 1511 1984; x_wconf 78' lang='lat' dir='ltr'><strong>CYPRIANI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 677 2177 1440 2290">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 677 2177 1440 2290">
+     <span class='ocr_line' id='line_1_3' title="bbox 677 2177 1440 2290; baseline 0.001 -4"><span class='ocrx_word' id='word_1_5' title='bbox 677 2179 773 2288; x_wconf 81' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 821 2177 1440 2290; x_wconf 74' lang='lat' dir='ltr'><strong>MORTALI&#39;IA&#39;IE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2002 5044">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2002 5044">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2002 5044; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 2002 5044; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
